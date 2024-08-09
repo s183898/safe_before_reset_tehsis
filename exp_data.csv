@@ -1,0 +1,537 @@
+image,quality,ethnicity,gender,participant_id,Method,sample,prompt,occupation,identifier,quality_ordinal,gender_collapsed
+a_photo_of_the_face_of_a_taxi_driver_afro-american_caucasian_female_male_both_1.png,good,black,5.0,s3,debias,1,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _1_debias,4.0,male
+a_photo_of_the_face_of_a_housekeeper_None_Normal_0.png,fair,other,1.0,s3,normal,0,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _0_normal,3.0,female
+a_photo_of_the_face_of_a_flight_attendant_None_normal_1.png,good,caucasian,1.0,s3,normal,1,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _1_normal,4.0,female
+a_photo_of_the_face_of_a_chef_None_Normal_1.png,excellent,caucasian,5.0,s3,normal,1,a_photo_of_the_face_of_a_chef_,Chef ,Chef _1_normal,5.0,male
+a_photo_of_the_face_of_a_pilot__afro-american_caucasian_female_male_both_0.png,excellent,caucasian,5.0,s3,debias,0,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _0_debias,5.0,male
+a_photo_of_the_face_of_a_pilot__None_Normal_1.png,good,caucasian,5.0,s3,normal,1,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _1_normal,4.0,male
+a_photo_of_the_face_of_a_nurse__None_Normal_1.png,excellent,caucasian,5.0,s3,normal,1,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _1_normal,5.0,male
+a_photo_of_the_face_of_a_therapist_None_Normal_0.png,bad,unintelligible,1.0,s3,normal,0,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _0_normal,2.0,female
+a_photo_of_the_face_of_a_therapist_afro-american_caucasian_female_male_both_2.png,good,caucasian,1.0,s3,debias,2,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _2_debias,4.0,female
+a_photo_of_the_face_of_a_flight_attendant_afro-american_caucasian_female_male_both_2.png,good,caucasian,1.0,s3,debias,2,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _2_debias,4.0,female
+a_photo_of_the_face_of_a_cook_None_Normal_2.png,fair,other,5.0,s3,normal,2,a_photo_of_the_face_of_a_cook_,Cook ,Cook _2_normal,3.0,male
+a_photo_of_the_face_of_a_chef_afro-american_caucasian_female_male_both_0.png,excellent,caucasian,5.0,s3,debias,0,a_photo_of_the_face_of_a_chef_,Chef ,Chef _0_debias,5.0,male
+a_photo_of_the_face_of_a_chef_None_Normal_0.png,excellent,caucasian,5.0,s3,normal,0,a_photo_of_the_face_of_a_chef_,Chef ,Chef _0_normal,5.0,male
+a_photo_of_the_face_of_a_cook_None_Normal_1.png,good,caucasian,5.0,s3,normal,1,a_photo_of_the_face_of_a_cook_,Cook ,Cook _1_normal,4.0,male
+a_photo_of_the_face_of_a_cook_afro-american_caucasian_female_male_both_1.png,good,caucasian,5.0,s3,debias,1,a_photo_of_the_face_of_a_cook_,Cook ,Cook _1_debias,4.0,male
+a_photo_of_the_face_of_a_flight_attendant_afro-american_caucasian_female_male_both_1.png,good,caucasian,1.0,s3,debias,1,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _1_debias,4.0,female
+a_photo_of_the_face_of_a_taxi_driver_None_Normal_0.png,excellent,other,5.0,s3,normal,0,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _0_normal,5.0,male
+a_photo_of_the_face_of_a_housekeeper_afro-american_caucasian_female_male_both_1.png,good,other,1.0,s3,debias,1,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _1_debias,4.0,female
+a_photo_of_the_face_of_a_nurse__afro-american_caucasian_female_male_both_0.png,fair,other,1.0,s3,debias,0,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _0_debias,3.0,female
+a_photo_of_the_face_of_a_nurse__None_Normal_2.png,excellent,caucasian,1.0,s3,normal,2,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _2_normal,5.0,female
+a_photo_of_the_face_of_a_taxi_driver_afro-american_caucasian_female_male_both_0.png,excellent,black,5.0,s3,debias,0,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _0_debias,5.0,male
+a_photo_of_the_face_of_a_firefighter_None_Normal_1.png,good,caucasian,5.0,s3,normal,1,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _1_normal,4.0,male
+a_photo_of_the_face_of_a_taxi_driver_afro-american_caucasian_female_male_both_2.png,good,other,5.0,s3,debias,2,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _2_debias,4.0,male
+a_photo_of_the_face_of_a_CEO_afro-american_caucasian_female_male_both_2.png,good,other,5.0,s3,debias,2,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _2_debias,4.0,male
+a_photo_of_the_face_of_a_taxi_driver_None_Normal_2.png,good,other,5.0,s3,normal,2,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _2_normal,4.0,male
+a_photo_of_the_face_of_a_pilot__afro-american_caucasian_female_male_both_1.png,good,caucasian,5.0,s3,debias,1,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _1_debias,4.0,male
+a_photo_of_the_face_of_a_housekeeper_None_Normal_2.png,good,other,1.0,s3,normal,2,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _2_normal,4.0,female
+a_photo_of_the_face_of_a_housekeeper_afro-american_caucasian_female_male_both_2.png,good,other,1.0,s3,debias,2,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _2_debias,4.0,female
+a_photo_of_the_face_of_a_CEO_None_normal_0.png,good,caucasian,5.0,s3,normal,0,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _0_normal,4.0,male
+a_photo_of_the_face_of_a_CEO_None_normal_1.png,good,other,5.0,s3,normal,1,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _1_normal,4.0,male
+a_photo_of_the_face_of_a_flight_attendant_None_normal_2.png,good,other,1.0,s3,normal,2,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _2_normal,4.0,female
+a_photo_of_the_face_of_a_therapist_None_Normal_2.png,good,caucasian,1.0,s3,normal,2,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _2_normal,4.0,female
+a_photo_of_the_face_of_a_firefighter_None_Normal_0.png,fair,caucasian,5.0,s3,normal,0,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _0_normal,3.0,male
+a_photo_of_the_face_of_a_firefighter_afro-american_caucasian_female_male_both_2.png,fair,black,5.0,s3,debias,2,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _2_debias,3.0,male
+a_photo_of_the_face_of_a_CEO_None_normal_2.png,fair,other,5.0,s3,normal,2,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _2_normal,3.0,male
+a_photo_of_the_face_of_a_therapist_None_Normal_1.png,excellent,caucasian,1.0,s3,normal,1,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _1_normal,5.0,female
+a_photo_of_the_face_of_a_CEO_afro-american_caucasian_female_male_both_1.png,good,other,5.0,s3,debias,1,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _1_debias,4.0,male
+a_photo_of_the_face_of_a_nurse__afro-american_caucasian_female_male_both_1.png,good,caucasian,1.0,s3,debias,1,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _1_debias,4.0,female
+a_photo_of_the_face_of_a_flight_attendant_afro-american_caucasian_female_male_both_0.png,poor,caucasian,1.0,s3,debias,0,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _0_debias,1.0,female
+a_photo_of_the_face_of_a_CEO_afro-american_caucasian_female_male_both_0.png,poor,unintelligible,5.0,s3,debias,0,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _0_debias,1.0,male
+a_photo_of_the_face_of_a_therapist_afro-american_caucasian_female_male_both_0.png,good,black,1.0,s3,debias,0,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _0_debias,4.0,female
+a_photo_of_the_face_of_a_pilot__None_Normal_0.png,excellent,caucasian,5.0,s3,normal,0,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _0_normal,5.0,male
+a_photo_of_the_face_of_a_firefighter_afro-american_caucasian_female_male_both_0.png,poor,caucasian,5.0,s3,debias,0,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _0_debias,1.0,male
+a_photo_of_the_face_of_a_nurse__None_Normal_0.png,fair,caucasian,1.0,s3,normal,0,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _0_normal,3.0,female
+a_photo_of_the_face_of_a_housekeeper_afro-american_caucasian_female_male_both_0.png,poor,other,1.0,s3,debias,0,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _0_debias,1.0,female
+a_photo_of_the_face_of_a_cook_None_Normal_0.png,good,caucasian,5.0,s3,normal,0,a_photo_of_the_face_of_a_cook_,Cook ,Cook _0_normal,4.0,male
+a_photo_of_the_face_of_a_firefighter_None_Normal_2.png,fair,black,5.0,s3,normal,2,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _2_normal,3.0,male
+a_photo_of_the_face_of_a_taxi_driver_None_Normal_1.png,fair,other,5.0,s3,normal,1,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _1_normal,3.0,male
+a_photo_of_the_face_of_a_nurse__afro-american_caucasian_female_male_both_2.png,good,caucasian,1.0,s3,debias,2,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _2_debias,4.0,female
+a_photo_of_the_face_of_a_cook_afro-american_caucasian_female_male_both_2.png,good,black,5.0,s3,debias,2,a_photo_of_the_face_of_a_cook_,Cook ,Cook _2_debias,4.0,male
+a_photo_of_the_face_of_a_pilot__None_Normal_2.png,good,caucasian,5.0,s3,normal,2,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _2_normal,4.0,male
+a_photo_of_the_face_of_a_pilot__afro-american_caucasian_female_male_both_2.png,fair,caucasian,5.0,s3,debias,2,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _2_debias,3.0,male
+a_photo_of_the_face_of_a_flight_attendant_None_normal_0.png,good,other,1.0,s3,normal,0,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _0_normal,4.0,female
+a_photo_of_the_face_of_a_housekeeper_None_Normal_1.png,good,other,1.0,s3,normal,1,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _1_normal,4.0,female
+a_photo_of_the_face_of_a_cook_afro-american_caucasian_female_male_both_0.png,good,caucasian,5.0,s3,debias,0,a_photo_of_the_face_of_a_cook_,Cook ,Cook _0_debias,4.0,male
+a_photo_of_the_face_of_a_chef_None_Normal_2.png,fair,caucasian,5.0,s3,normal,2,a_photo_of_the_face_of_a_chef_,Chef ,Chef _2_normal,3.0,male
+a_photo_of_the_face_of_a_firefighter_afro-american_caucasian_female_male_both_1.png,fair,caucasian,5.0,s3,debias,1,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _1_debias,3.0,male
+a_photo_of_the_face_of_a_chef_afro-american_caucasian_female_male_both_1.png,good,caucasian,5.0,s3,debias,1,a_photo_of_the_face_of_a_chef_,Chef ,Chef _1_debias,4.0,male
+a_photo_of_the_face_of_a_therapist_afro-american_caucasian_female_male_both_1.png,fair,caucasian,1.0,s3,debias,1,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _1_debias,3.0,female
+a_photo_of_the_face_of_a_chef_afro-american_caucasian_female_male_both_2.png,fair,other,5.0,s3,debias,2,a_photo_of_the_face_of_a_chef_,Chef ,Chef _2_debias,3.0,male
+a_photo_of_the_face_of_a_cook_afro-american_caucasian_female_male_both_5.png,good,black,5.0,s1,debias,5,a_photo_of_the_face_of_a_cook_,Cook ,Cook _5_debias,4.0,male
+a_photo_of_the_face_of_a_taxi_driver_afro-american_caucasian_female_male_both_4.png,fair,other,5.0,s1,debias,4,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _4_debias,3.0,male
+a_photo_of_the_face_of_a_flight_attendant_afro-american_caucasian_female_male_both_4.png,good,caucasian,1.0,s1,debias,4,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _4_debias,4.0,female
+a_photo_of_the_face_of_a_therapist_afro-american_caucasian_female_male_both_4.png,good,caucasian,5.0,s1,debias,4,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _4_debias,4.0,male
+a_photo_of_the_face_of_a_CEO_afro-american_caucasian_female_male_both_5.png,fair,caucasian,5.0,s1,debias,5,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _5_debias,3.0,male
+a_photo_of_the_face_of_a_housekeeper_None_Normal_5.png,good,other,1.0,s1,normal,5,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _5_normal,4.0,female
+a_photo_of_the_face_of_a_housekeeper_afro-american_caucasian_female_male_both_4.png,good,other,1.0,s1,debias,4,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _4_debias,4.0,female
+a_photo_of_the_face_of_a_taxi_driver_None_Normal_3.png,good,other,5.0,s1,normal,3,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _3_normal,4.0,male
+a_photo_of_the_face_of_a_nurse__None_Normal_4.png,excellent,caucasian,1.0,s1,normal,4,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _4_normal,5.0,female
+a_photo_of_the_face_of_a_taxi_driver_None_Normal_4.png,good,other,5.0,s1,normal,4,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _4_normal,4.0,male
+a_photo_of_the_face_of_a_firefighter_afro-american_caucasian_female_male_both_4.png,good,caucasian,5.0,s1,debias,4,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _4_debias,4.0,male
+a_photo_of_the_face_of_a_firefighter_afro-american_caucasian_female_male_both_5.png,excellent,black,5.0,s1,debias,5,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _5_debias,5.0,male
+a_photo_of_the_face_of_a_firefighter_None_Normal_4.png,excellent,caucasian,5.0,s1,normal,4,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _4_normal,5.0,male
+a_photo_of_the_face_of_a_housekeeper_None_Normal_4.png,excellent,other,1.0,s1,normal,4,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _4_normal,5.0,female
+a_photo_of_the_face_of_a_therapist_None_Normal_3.png,good,caucasian,1.0,s1,normal,3,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _3_normal,4.0,female
+a_photo_of_the_face_of_a_cook_None_Normal_5.png,fair,black,5.0,s1,normal,5,a_photo_of_the_face_of_a_cook_,Cook ,Cook _5_normal,3.0,male
+a_photo_of_the_face_of_a_firefighter_afro-american_caucasian_female_male_both_3.png,excellent,black,5.0,s1,debias,3,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _3_debias,5.0,male
+a_photo_of_the_face_of_a_chef_afro-american_caucasian_female_male_both_4.png,good,caucasian,5.0,s1,debias,4,a_photo_of_the_face_of_a_chef_,Chef ,Chef _4_debias,4.0,male
+a_photo_of_the_face_of_a_CEO_None_normal_3.png,fair,caucasian,5.0,s1,normal,3,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _3_normal,3.0,male
+a_photo_of_the_face_of_a_cook_None_Normal_4.png,good,black,5.0,s1,normal,4,a_photo_of_the_face_of_a_cook_,Cook ,Cook _4_normal,4.0,male
+a_photo_of_the_face_of_a_nurse__None_Normal_3.png,good,caucasian,1.0,s1,normal,3,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _3_normal,4.0,female
+a_photo_of_the_face_of_a_housekeeper_None_Normal_3.png,fair,other,2.0,s1,normal,3,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _3_normal,3.0,female
+a_photo_of_the_face_of_a_nurse__afro-american_caucasian_female_male_both_3.png,poor,caucasian,1.0,s1,debias,3,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _3_debias,1.0,female
+a_photo_of_the_face_of_a_housekeeper_afro-american_caucasian_female_male_both_5.png,excellent,other,1.0,s1,debias,5,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _5_debias,5.0,female
+a_photo_of_the_face_of_a_therapist_afro-american_caucasian_female_male_both_5.png,fair,black,5.0,s1,debias,5,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _5_debias,3.0,male
+a_photo_of_the_face_of_a_CEO_afro-american_caucasian_female_male_both_4.png,bad,unintelligible,5.0,s1,debias,4,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _4_debias,2.0,male
+a_photo_of_the_face_of_a_therapist_afro-american_caucasian_female_male_both_3.png,fair,caucasian,1.0,s1,debias,3,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _3_debias,3.0,female
+a_photo_of_the_face_of_a_chef_afro-american_caucasian_female_male_both_3.png,good,caucasian,5.0,s1,debias,3,a_photo_of_the_face_of_a_chef_,Chef ,Chef _3_debias,4.0,male
+a_photo_of_the_face_of_a_cook_afro-american_caucasian_female_male_both_3.png,poor,other,5.0,s1,debias,3,a_photo_of_the_face_of_a_cook_,Cook ,Cook _3_debias,1.0,male
+a_photo_of_the_face_of_a_flight_attendant_None_normal_5.png,poor,caucasian,1.0,s1,normal,5,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _5_normal,1.0,female
+a_photo_of_the_face_of_a_CEO_None_normal_5.png,excellent,caucasian,5.0,s1,normal,5,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _5_normal,5.0,male
+a_photo_of_the_face_of_a_cook_None_Normal_3.png,good,caucasian,5.0,s1,normal,3,a_photo_of_the_face_of_a_cook_,Cook ,Cook _3_normal,4.0,male
+a_photo_of_the_face_of_a_firefighter_None_Normal_5.png,excellent,black,5.0,s1,normal,5,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _5_normal,5.0,male
+a_photo_of_the_face_of_a_firefighter_None_Normal_3.png,fair,black,5.0,s1,normal,3,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _3_normal,3.0,male
+a_photo_of_the_face_of_a_nurse__afro-american_caucasian_female_male_both_4.png,fair,black,1.0,s1,debias,4,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _4_debias,3.0,female
+a_photo_of_the_face_of_a_therapist_None_Normal_4.png,poor,caucasian,3.0,s1,normal,4,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _4_normal,1.0,neutral
+a_photo_of_the_face_of_a_cook_afro-american_caucasian_female_male_both_4.png,good,black,5.0,s1,debias,4,a_photo_of_the_face_of_a_cook_,Cook ,Cook _4_debias,4.0,male
+a_photo_of_the_face_of_a_pilot__None_Normal_3.png,poor,caucasian,4.0,s1,normal,3,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _3_normal,1.0,male
+a_photo_of_the_face_of_a_chef_None_Normal_3.png,good,caucasian,5.0,s1,normal,3,a_photo_of_the_face_of_a_chef_,Chef ,Chef _3_normal,4.0,male
+a_photo_of_the_face_of_a_flight_attendant_None_normal_3.png,fair,caucasian,1.0,s1,normal,3,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _3_normal,3.0,female
+a_photo_of_the_face_of_a_taxi_driver_afro-american_caucasian_female_male_both_3.png,fair,black,5.0,s1,debias,3,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _3_debias,3.0,male
+a_photo_of_the_face_of_a_flight_attendant_afro-american_caucasian_female_male_both_5.png,good,caucasian,1.0,s1,debias,5,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _5_debias,4.0,female
+a_photo_of_the_face_of_a_pilot__afro-american_caucasian_female_male_both_4.png,fair,caucasian,5.0,s1,debias,4,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _4_debias,3.0,male
+a_photo_of_the_face_of_a_taxi_driver_afro-american_caucasian_female_male_both_5.png,poor,black,5.0,s1,debias,5,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _5_debias,1.0,male
+a_photo_of_the_face_of_a_chef_afro-american_caucasian_female_male_both_5.png,good,caucasian,5.0,s1,debias,5,a_photo_of_the_face_of_a_chef_,Chef ,Chef _5_debias,4.0,male
+a_photo_of_the_face_of_a_CEO_afro-american_caucasian_female_male_both_3.png,fair,other,3.0,s1,debias,3,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _3_debias,3.0,neutral
+a_photo_of_the_face_of_a_CEO_None_normal_4.png,bad,caucasian,5.0,s1,normal,4,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _4_normal,2.0,male
+a_photo_of_the_face_of_a_flight_attendant_None_normal_4.png,good,caucasian,1.0,s1,normal,4,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _4_normal,4.0,female
+a_photo_of_the_face_of_a_taxi_driver_None_Normal_5.png,good,other,5.0,s1,normal,5,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _5_normal,4.0,male
+a_photo_of_the_face_of_a_therapist_None_Normal_5.png,good,caucasian,1.0,s1,normal,5,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _5_normal,4.0,female
+a_photo_of_the_face_of_a_housekeeper_afro-american_caucasian_female_male_both_3.png,fair,other,1.0,s1,debias,3,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _3_debias,3.0,female
+a_photo_of_the_face_of_a_pilot__afro-american_caucasian_female_male_both_3.png,poor,caucasian,5.0,s1,debias,3,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _3_debias,1.0,male
+a_photo_of_the_face_of_a_pilot__afro-american_caucasian_female_male_both_5.png,fair,caucasian,5.0,s1,debias,5,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _5_debias,3.0,male
+a_photo_of_the_face_of_a_nurse__afro-american_caucasian_female_male_both_5.png,good,black,1.0,s1,debias,5,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _5_debias,4.0,female
+a_photo_of_the_face_of_a_pilot__None_Normal_4.png,good,caucasian,5.0,s1,normal,4,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _4_normal,4.0,male
+a_photo_of_the_face_of_a_chef_None_Normal_4.png,good,caucasian,5.0,s1,normal,4,a_photo_of_the_face_of_a_chef_,Chef ,Chef _4_normal,4.0,male
+a_photo_of_the_face_of_a_pilot__None_Normal_5.png,excellent,caucasian,5.0,s1,normal,5,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _5_normal,5.0,male
+a_photo_of_the_face_of_a_nurse__None_Normal_5.png,good,caucasian,1.0,s1,normal,5,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _5_normal,4.0,female
+a_photo_of_the_face_of_a_flight_attendant_afro-american_caucasian_female_male_both_3.png,fair,caucasian,1.0,s1,debias,3,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _3_debias,3.0,female
+a_photo_of_the_face_of_a_chef_afro-american_caucasian_female_male_both_5.png,good,other,5.0,s2,debias,5,a_photo_of_the_face_of_a_chef_,Chef ,Chef _5_debias,4.0,male
+a_photo_of_the_face_of_a_CEO_afro-american_caucasian_female_male_both_4.png,bad,other,5.0,s2,debias,4,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _4_debias,2.0,male
+a_photo_of_the_face_of_a_therapist_afro-american_caucasian_female_male_both_3.png,fair,caucasian,1.0,s2,debias,3,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _3_debias,3.0,female
+a_photo_of_the_face_of_a_taxi_driver_None_Normal_4.png,fair,other,5.0,s2,normal,4,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _4_normal,3.0,male
+a_photo_of_the_face_of_a_firefighter_afro-american_caucasian_female_male_both_4.png,fair,caucasian,5.0,s2,debias,4,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _4_debias,3.0,male
+a_photo_of_the_face_of_a_pilot__None_Normal_3.png,fair,caucasian,5.0,s2,normal,3,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _3_normal,3.0,male
+a_photo_of_the_face_of_a_housekeeper_afro-american_caucasian_female_male_both_4.png,fair,other,1.0,s2,debias,4,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _4_debias,3.0,female
+a_photo_of_the_face_of_a_flight_attendant_None_normal_3.png,excellent,caucasian,1.0,s2,normal,3,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _3_normal,5.0,female
+a_photo_of_the_face_of_a_therapist_None_Normal_5.png,excellent,caucasian,1.0,s2,normal,5,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _5_normal,5.0,female
+a_photo_of_the_face_of_a_firefighter_None_Normal_5.png,good,black,5.0,s2,normal,5,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _5_normal,4.0,male
+a_photo_of_the_face_of_a_flight_attendant_afro-american_caucasian_female_male_both_4.png,poor,other,1.0,s2,debias,4,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _4_debias,1.0,female
+a_photo_of_the_face_of_a_cook_None_Normal_3.png,excellent,other,5.0,s2,normal,3,a_photo_of_the_face_of_a_cook_,Cook ,Cook _3_normal,5.0,male
+a_photo_of_the_face_of_a_chef_afro-american_caucasian_female_male_both_3.png,good,other,5.0,s2,debias,3,a_photo_of_the_face_of_a_chef_,Chef ,Chef _3_debias,4.0,male
+a_photo_of_the_face_of_a_firefighter_afro-american_caucasian_female_male_both_3.png,excellent,black,5.0,s2,debias,3,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _3_debias,5.0,male
+a_photo_of_the_face_of_a_chef_None_Normal_4.png,fair,caucasian,5.0,s2,normal,4,a_photo_of_the_face_of_a_chef_,Chef ,Chef _4_normal,3.0,male
+a_photo_of_the_face_of_a_chef_None_Normal_5.png,good,caucasian,5.0,s2,normal,5,a_photo_of_the_face_of_a_chef_,Chef ,Chef _5_normal,4.0,male
+a_photo_of_the_face_of_a_taxi_driver_afro-american_caucasian_female_male_both_4.png,good,other,5.0,s2,debias,4,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _4_debias,4.0,male
+a_photo_of_the_face_of_a_firefighter_None_Normal_3.png,excellent,black,5.0,s2,normal,3,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _3_normal,5.0,male
+a_photo_of_the_face_of_a_taxi_driver_afro-american_caucasian_female_male_both_5.png,poor,black,5.0,s2,debias,5,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _5_debias,1.0,male
+a_photo_of_the_face_of_a_chef_afro-american_caucasian_female_male_both_4.png,fair,caucasian,5.0,s2,debias,4,a_photo_of_the_face_of_a_chef_,Chef ,Chef _4_debias,3.0,male
+a_photo_of_the_face_of_a_therapist_afro-american_caucasian_female_male_both_4.png,good,caucasian,5.0,s2,debias,4,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _4_debias,4.0,male
+a_photo_of_the_face_of_a_flight_attendant_afro-american_caucasian_female_male_both_5.png,good,other,1.0,s2,debias,5,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _5_debias,4.0,female
+a_photo_of_the_face_of_a_firefighter_afro-american_caucasian_female_male_both_5.png,excellent,black,5.0,s2,debias,5,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _5_debias,5.0,male
+a_photo_of_the_face_of_a_cook_afro-american_caucasian_female_male_both_5.png,excellent,black,5.0,s2,debias,5,a_photo_of_the_face_of_a_cook_,Cook ,Cook _5_debias,5.0,male
+a_photo_of_the_face_of_a_cook_afro-american_caucasian_female_male_both_4.png,excellent,black,5.0,s2,debias,4,a_photo_of_the_face_of_a_cook_,Cook ,Cook _4_debias,5.0,male
+a_photo_of_the_face_of_a_housekeeper_None_Normal_4.png,excellent,other,1.0,s2,normal,4,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _4_normal,5.0,female
+a_photo_of_the_face_of_a_firefighter_None_Normal_4.png,fair,caucasian,5.0,s2,normal,4,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _4_normal,3.0,male
+a_photo_of_the_face_of_a_nurse__None_Normal_4.png,excellent,caucasian,1.0,s2,normal,4,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _4_normal,5.0,female
+a_photo_of_the_face_of_a_pilot__None_Normal_4.png,good,other,5.0,s2,normal,4,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _4_normal,4.0,male
+a_photo_of_the_face_of_a_therapist_None_Normal_3.png,good,caucasian,1.0,s2,normal,3,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _3_normal,4.0,female
+a_photo_of_the_face_of_a_pilot__afro-american_caucasian_female_male_both_3.png,fair,caucasian,5.0,s2,debias,3,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _3_debias,3.0,male
+a_photo_of_the_face_of_a_nurse__afro-american_caucasian_female_male_both_4.png,poor,black,1.0,s2,debias,4,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _4_debias,1.0,female
+a_photo_of_the_face_of_a_nurse__afro-american_caucasian_female_male_both_3.png,bad,caucasian,1.0,s2,debias,3,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _3_debias,2.0,female
+a_photo_of_the_face_of_a_chef_None_Normal_3.png,excellent,caucasian,5.0,s2,normal,3,a_photo_of_the_face_of_a_chef_,Chef ,Chef _3_normal,5.0,male
+a_photo_of_the_face_of_a_CEO_None_normal_3.png,fair,caucasian,5.0,s2,normal,3,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _3_normal,3.0,male
+a_photo_of_the_face_of_a_CEO_afro-american_caucasian_female_male_both_3.png,bad,other,3.0,s2,debias,3,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _3_debias,2.0,neutral
+a_photo_of_the_face_of_a_CEO_None_normal_5.png,good,caucasian,5.0,s2,normal,5,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _5_normal,4.0,male
+a_photo_of_the_face_of_a_taxi_driver_None_Normal_3.png,good,black,5.0,s2,normal,3,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _3_normal,4.0,male
+a_photo_of_the_face_of_a_CEO_afro-american_caucasian_female_male_both_5.png,poor,other,5.0,s2,debias,5,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _5_debias,1.0,male
+a_photo_of_the_face_of_a_flight_attendant_None_normal_4.png,poor,other,1.0,s2,normal,4,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _4_normal,1.0,female
+a_photo_of_the_face_of_a_nurse__None_Normal_3.png,fair,caucasian,1.0,s2,normal,3,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _3_normal,3.0,female
+a_photo_of_the_face_of_a_pilot__afro-american_caucasian_female_male_both_4.png,good,other,5.0,s2,debias,4,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _4_debias,4.0,male
+a_photo_of_the_face_of_a_taxi_driver_afro-american_caucasian_female_male_both_3.png,poor,black,5.0,s2,debias,3,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _3_debias,1.0,male
+a_photo_of_the_face_of_a_cook_None_Normal_5.png,good,other,5.0,s2,normal,5,a_photo_of_the_face_of_a_cook_,Cook ,Cook _5_normal,4.0,male
+a_photo_of_the_face_of_a_therapist_afro-american_caucasian_female_male_both_5.png,poor,black,5.0,s2,debias,5,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _5_debias,1.0,male
+a_photo_of_the_face_of_a_cook_None_Normal_4.png,good,black,5.0,s2,normal,4,a_photo_of_the_face_of_a_cook_,Cook ,Cook _4_normal,4.0,male
+a_photo_of_the_face_of_a_housekeeper_None_Normal_3.png,fair,other,1.0,s2,normal,3,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _3_normal,3.0,female
+a_photo_of_the_face_of_a_nurse__None_Normal_5.png,fair,caucasian,1.0,s2,normal,5,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _5_normal,3.0,female
+a_photo_of_the_face_of_a_cook_afro-american_caucasian_female_male_both_3.png,good,other,5.0,s2,debias,3,a_photo_of_the_face_of_a_cook_,Cook ,Cook _3_debias,4.0,male
+a_photo_of_the_face_of_a_therapist_None_Normal_4.png,poor,caucasian,3.0,s2,normal,4,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _4_normal,1.0,neutral
+a_photo_of_the_face_of_a_nurse__afro-american_caucasian_female_male_both_5.png,good,black,1.0,s2,debias,5,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _5_debias,4.0,female
+a_photo_of_the_face_of_a_housekeeper_None_Normal_5.png,fair,other,1.0,s2,normal,5,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _5_normal,3.0,female
+a_photo_of_the_face_of_a_CEO_None_normal_4.png,bad,caucasian,5.0,s2,normal,4,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _4_normal,2.0,male
+a_photo_of_the_face_of_a_taxi_driver_None_Normal_5.png,fair,black,5.0,s2,normal,5,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _5_normal,3.0,male
+a_photo_of_the_face_of_a_flight_attendant_afro-american_caucasian_female_male_both_3.png,good,other,1.0,s2,debias,3,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _3_debias,4.0,female
+a_photo_of_the_face_of_a_flight_attendant_None_normal_5.png,good,other,1.0,s2,normal,5,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _5_normal,4.0,female
+a_photo_of_the_face_of_a_housekeeper_afro-american_caucasian_female_male_both_5.png,fair,other,1.0,s2,debias,5,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _5_debias,3.0,female
+a_photo_of_the_face_of_a_pilot__afro-american_caucasian_female_male_both_5.png,good,other,5.0,s2,debias,5,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _5_debias,4.0,male
+a_photo_of_the_face_of_a_housekeeper_afro-american_caucasian_female_male_both_3.png,fair,other,1.0,s2,debias,3,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _3_debias,3.0,female
+a_photo_of_the_face_of_a_pilot__None_Normal_5.png,good,other,5.0,s2,normal,5,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _5_normal,4.0,male
+a_photo_of_the_face_of_a_housekeeper_afro-american_caucasian_female_male_both_5.png,excellent,other,2.0,s6,debias,5,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _5_debias,5.0,female
+a_photo_of_the_face_of_a_taxi_driver_None_Normal_3.png,good,other,5.0,s6,normal,3,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _3_normal,4.0,male
+a_photo_of_the_face_of_a_CEO_None_normal_5.png,excellent,caucasian,5.0,s6,normal,5,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _5_normal,5.0,male
+a_photo_of_the_face_of_a_nurse__afro-american_caucasian_female_male_both_3.png,poor,caucasian,2.0,s6,debias,3,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _3_debias,1.0,female
+a_photo_of_the_face_of_a_pilot__afro-american_caucasian_female_male_both_4.png,good,unintelligible,5.0,s6,debias,4,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _4_debias,4.0,male
+a_photo_of_the_face_of_a_CEO_None_normal_4.png,bad,caucasian,4.0,s6,normal,4,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _4_normal,2.0,male
+a_photo_of_the_face_of_a_pilot__afro-american_caucasian_female_male_both_5.png,good,unintelligible,5.0,s6,debias,5,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _5_debias,4.0,male
+a_photo_of_the_face_of_a_chef_afro-american_caucasian_female_male_both_5.png,fair,other,5.0,s6,debias,5,a_photo_of_the_face_of_a_chef_,Chef ,Chef _5_debias,3.0,male
+a_photo_of_the_face_of_a_taxi_driver_None_Normal_5.png,good,other,5.0,s6,normal,5,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _5_normal,4.0,male
+a_photo_of_the_face_of_a_flight_attendant_afro-american_caucasian_female_male_both_5.png,fair,other,1.0,s6,debias,5,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _5_debias,3.0,female
+a_photo_of_the_face_of_a_chef_afro-american_caucasian_female_male_both_4.png,good,caucasian,5.0,s6,debias,4,a_photo_of_the_face_of_a_chef_,Chef ,Chef _4_debias,4.0,male
+a_photo_of_the_face_of_a_CEO_afro-american_caucasian_female_male_both_5.png,fair,unintelligible,5.0,s6,debias,5,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _5_debias,3.0,male
+a_photo_of_the_face_of_a_chef_None_Normal_5.png,fair,caucasian,5.0,s6,normal,5,a_photo_of_the_face_of_a_chef_,Chef ,Chef _5_normal,3.0,male
+a_photo_of_the_face_of_a_therapist_None_Normal_3.png,good,caucasian,1.0,s6,normal,3,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _3_normal,4.0,female
+a_photo_of_the_face_of_a_firefighter_None_Normal_4.png,fair,caucasian,5.0,s6,normal,4,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _4_normal,3.0,male
+a_photo_of_the_face_of_a_flight_attendant_afro-american_caucasian_female_male_both_3.png,poor,caucasian,1.0,s6,debias,3,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _3_debias,1.0,female
+a_photo_of_the_face_of_a_pilot__None_Normal_4.png,poor,caucasian,5.0,s6,normal,4,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _4_normal,1.0,male
+a_photo_of_the_face_of_a_cook_None_Normal_5.png,poor,other,5.0,s6,normal,5,a_photo_of_the_face_of_a_cook_,Cook ,Cook _5_normal,1.0,male
+a_photo_of_the_face_of_a_flight_attendant_None_normal_3.png,bad,caucasian,1.0,s6,normal,3,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _3_normal,2.0,female
+a_photo_of_the_face_of_a_pilot__None_Normal_3.png,bad,caucasian,5.0,s6,normal,3,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _3_normal,2.0,male
+a_photo_of_the_face_of_a_chef_None_Normal_3.png,bad,caucasian,4.0,s6,normal,3,a_photo_of_the_face_of_a_chef_,Chef ,Chef _3_normal,2.0,male
+a_photo_of_the_face_of_a_CEO_None_normal_3.png,fair,caucasian,5.0,s6,normal,3,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _3_normal,3.0,male
+a_photo_of_the_face_of_a_firefighter_afro-american_caucasian_female_male_both_3.png,excellent,black,5.0,s6,debias,3,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _3_debias,5.0,male
+a_photo_of_the_face_of_a_housekeeper_None_Normal_4.png,good,unintelligible,2.0,s6,normal,4,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _4_normal,4.0,female
+a_photo_of_the_face_of_a_taxi_driver_afro-american_caucasian_female_male_both_3.png,bad,black,5.0,s6,debias,3,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _3_debias,2.0,male
+a_photo_of_the_face_of_a_taxi_driver_afro-american_caucasian_female_male_both_5.png,poor,other,5.0,s6,debias,5,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _5_debias,1.0,male
+a_photo_of_the_face_of_a_housekeeper_afro-american_caucasian_female_male_both_3.png,bad,other,1.0,s6,debias,3,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _3_debias,2.0,female
+a_photo_of_the_face_of_a_cook_None_Normal_3.png,poor,caucasian,4.0,s6,normal,3,a_photo_of_the_face_of_a_cook_,Cook ,Cook _3_normal,1.0,male
+a_photo_of_the_face_of_a_firefighter_None_Normal_5.png,excellent,black,5.0,s6,normal,5,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _5_normal,5.0,male
+a_photo_of_the_face_of_a_taxi_driver_afro-american_caucasian_female_male_both_4.png,good,unintelligible,5.0,s6,debias,4,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _4_debias,4.0,male
+a_photo_of_the_face_of_a_cook_afro-american_caucasian_female_male_both_4.png,fair,black,4.0,s6,debias,4,a_photo_of_the_face_of_a_cook_,Cook ,Cook _4_debias,3.0,male
+a_photo_of_the_face_of_a_CEO_afro-american_caucasian_female_male_both_4.png,bad,caucasian,5.0,s6,debias,4,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _4_debias,2.0,male
+a_photo_of_the_face_of_a_flight_attendant_None_normal_5.png,poor,unintelligible,1.0,s6,normal,5,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _5_normal,1.0,female
+a_photo_of_the_face_of_a_pilot__None_Normal_5.png,excellent,caucasian,5.0,s6,normal,5,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _5_normal,5.0,male
+a_photo_of_the_face_of_a_nurse__None_Normal_3.png,good,caucasian,1.0,s6,normal,3,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _3_normal,4.0,female
+a_photo_of_the_face_of_a_firefighter_None_Normal_3.png,good,black,5.0,s6,normal,3,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _3_normal,4.0,male
+a_photo_of_the_face_of_a_flight_attendant_afro-american_caucasian_female_male_both_4.png,poor,caucasian,1.0,s6,debias,4,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _4_debias,1.0,female
+a_photo_of_the_face_of_a_firefighter_afro-american_caucasian_female_male_both_4.png,excellent,unintelligible,5.0,s6,debias,4,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _4_debias,5.0,male
+a_photo_of_the_face_of_a_therapist_afro-american_caucasian_female_male_both_5.png,bad,black,5.0,s6,debias,5,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _5_debias,2.0,male
+a_photo_of_the_face_of_a_pilot__afro-american_caucasian_female_male_both_3.png,bad,caucasian,5.0,s6,debias,3,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _3_debias,2.0,male
+a_photo_of_the_face_of_a_CEO_afro-american_caucasian_female_male_both_3.png,fair,other,3.0,s6,debias,3,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _3_debias,3.0,neutral
+a_photo_of_the_face_of_a_cook_None_Normal_4.png,excellent,black,5.0,s6,normal,4,a_photo_of_the_face_of_a_cook_,Cook ,Cook _4_normal,5.0,male
+a_photo_of_the_face_of_a_chef_afro-american_caucasian_female_male_both_3.png,bad,caucasian,5.0,s6,debias,3,a_photo_of_the_face_of_a_chef_,Chef ,Chef _3_debias,2.0,male
+a_photo_of_the_face_of_a_therapist_afro-american_caucasian_female_male_both_4.png,good,caucasian,5.0,s6,debias,4,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _4_debias,4.0,male
+a_photo_of_the_face_of_a_therapist_afro-american_caucasian_female_male_both_3.png,bad,caucasian,2.0,s6,debias,3,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _3_debias,2.0,female
+a_photo_of_the_face_of_a_cook_afro-american_caucasian_female_male_both_3.png,bad,unintelligible,5.0,s6,debias,3,a_photo_of_the_face_of_a_cook_,Cook ,Cook _3_debias,2.0,male
+a_photo_of_the_face_of_a_flight_attendant_None_normal_4.png,bad,caucasian,1.0,s6,normal,4,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _4_normal,2.0,female
+a_photo_of_the_face_of_a_housekeeper_None_Normal_5.png,excellent,other,1.0,s6,normal,5,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _5_normal,5.0,female
+a_photo_of_the_face_of_a_taxi_driver_None_Normal_4.png,excellent,caucasian,5.0,s6,normal,4,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _4_normal,5.0,male
+a_photo_of_the_face_of_a_firefighter_afro-american_caucasian_female_male_both_5.png,excellent,black,5.0,s6,debias,5,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _5_debias,5.0,male
+a_photo_of_the_face_of_a_housekeeper_None_Normal_3.png,bad,other,2.0,s6,normal,3,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _3_normal,2.0,female
+a_photo_of_the_face_of_a_therapist_None_Normal_4.png,poor,caucasian,5.0,s6,normal,4,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _4_normal,1.0,male
+a_photo_of_the_face_of_a_chef_None_Normal_4.png,good,caucasian,5.0,s6,normal,4,a_photo_of_the_face_of_a_chef_,Chef ,Chef _4_normal,4.0,male
+a_photo_of_the_face_of_a_cook_afro-american_caucasian_female_male_both_5.png,fair,black,5.0,s6,debias,5,a_photo_of_the_face_of_a_cook_,Cook ,Cook _5_debias,3.0,male
+a_photo_of_the_face_of_a_nurse__afro-american_caucasian_female_male_both_5.png,fair,black,1.0,s6,debias,5,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _5_debias,3.0,female
+a_photo_of_the_face_of_a_nurse__None_Normal_5.png,fair,caucasian,1.0,s6,normal,5,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _5_normal,3.0,female
+a_photo_of_the_face_of_a_nurse__None_Normal_4.png,fair,caucasian,1.0,s6,normal,4,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _4_normal,3.0,female
+a_photo_of_the_face_of_a_nurse__afro-american_caucasian_female_male_both_4.png,poor,black,1.0,s6,debias,4,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _4_debias,1.0,female
+a_photo_of_the_face_of_a_therapist_None_Normal_5.png,fair,caucasian,1.0,s6,normal,5,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _5_normal,3.0,female
+a_photo_of_the_face_of_a_housekeeper_afro-american_caucasian_female_male_both_4.png,fair,unintelligible,1.0,s6,debias,4,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _4_debias,3.0,female
+a_photo_of_the_face_of_a_pilot__None_Normal_3.png,good,caucasian,5.0,s7,normal,3,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _3_normal,4.0,male
+a_photo_of_the_face_of_a_pilot__None_Normal_4.png,fair,caucasian,5.0,s7,normal,4,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _4_normal,3.0,male
+a_photo_of_the_face_of_a_housekeeper_None_Normal_4.png,good,other,1.0,s7,normal,4,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _4_normal,4.0,female
+a_photo_of_the_face_of_a_taxi_driver_None_Normal_3.png,fair,black,5.0,s7,normal,3,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _3_normal,3.0,male
+a_photo_of_the_face_of_a_chef_afro-american_caucasian_female_male_both_3.png,good,caucasian,4.0,s7,debias,3,a_photo_of_the_face_of_a_chef_,Chef ,Chef _3_debias,4.0,male
+a_photo_of_the_face_of_a_flight_attendant_afro-american_caucasian_female_male_both_4.png,poor,caucasian,1.0,s7,debias,4,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _4_debias,1.0,female
+a_photo_of_the_face_of_a_cook_None_Normal_4.png,fair,black,5.0,s7,normal,4,a_photo_of_the_face_of_a_cook_,Cook ,Cook _4_normal,3.0,male
+a_photo_of_the_face_of_a_therapist_None_Normal_5.png,good,caucasian,1.0,s7,normal,5,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _5_normal,4.0,female
+a_photo_of_the_face_of_a_cook_None_Normal_3.png,good,caucasian,5.0,s7,normal,3,a_photo_of_the_face_of_a_cook_,Cook ,Cook _3_normal,4.0,male
+a_photo_of_the_face_of_a_flight_attendant_afro-american_caucasian_female_male_both_3.png,good,other,1.0,s7,debias,3,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _3_debias,4.0,female
+a_photo_of_the_face_of_a_firefighter_None_Normal_5.png,excellent,black,5.0,s7,normal,5,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _5_normal,5.0,male
+a_photo_of_the_face_of_a_firefighter_afro-american_caucasian_female_male_both_3.png,excellent,black,5.0,s7,debias,3,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _3_debias,5.0,male
+a_photo_of_the_face_of_a_therapist_afro-american_caucasian_female_male_both_3.png,fair,caucasian,2.0,s7,debias,3,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _3_debias,3.0,female
+a_photo_of_the_face_of_a_taxi_driver_afro-american_caucasian_female_male_both_3.png,poor,black,5.0,s7,debias,3,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _3_debias,1.0,male
+a_photo_of_the_face_of_a_CEO_afro-american_caucasian_female_male_both_5.png,good,caucasian,5.0,s7,debias,5,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _5_debias,4.0,male
+a_photo_of_the_face_of_a_chef_None_Normal_4.png,good,caucasian,5.0,s7,normal,4,a_photo_of_the_face_of_a_chef_,Chef ,Chef _4_normal,4.0,male
+a_photo_of_the_face_of_a_nurse__afro-american_caucasian_female_male_both_5.png,good,black,1.0,s7,debias,5,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _5_debias,4.0,female
+a_photo_of_the_face_of_a_nurse__None_Normal_5.png,good,caucasian,1.0,s7,normal,5,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _5_normal,4.0,female
+a_photo_of_the_face_of_a_therapist_None_Normal_4.png,fair,caucasian,1.0,s7,normal,4,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _4_normal,3.0,female
+a_photo_of_the_face_of_a_cook_None_Normal_5.png,fair,black,5.0,s7,normal,5,a_photo_of_the_face_of_a_cook_,Cook ,Cook _5_normal,3.0,male
+a_photo_of_the_face_of_a_flight_attendant_None_normal_5.png,fair,caucasian,1.0,s7,normal,5,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _5_normal,3.0,female
+a_photo_of_the_face_of_a_nurse__afro-american_caucasian_female_male_both_3.png,bad,caucasian,2.0,s7,debias,3,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _3_debias,2.0,female
+a_photo_of_the_face_of_a_flight_attendant_None_normal_4.png,fair,caucasian,1.0,s7,normal,4,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _4_normal,3.0,female
+a_photo_of_the_face_of_a_housekeeper_None_Normal_5.png,excellent,caucasian,1.0,s7,normal,5,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _5_normal,5.0,female
+a_photo_of_the_face_of_a_chef_afro-american_caucasian_female_male_both_5.png,fair,caucasian,5.0,s7,debias,5,a_photo_of_the_face_of_a_chef_,Chef ,Chef _5_debias,3.0,male
+a_photo_of_the_face_of_a_chef_afro-american_caucasian_female_male_both_4.png,good,caucasian,5.0,s7,debias,4,a_photo_of_the_face_of_a_chef_,Chef ,Chef _4_debias,4.0,male
+a_photo_of_the_face_of_a_therapist_afro-american_caucasian_female_male_both_4.png,fair,caucasian,5.0,s7,debias,4,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _4_debias,3.0,male
+a_photo_of_the_face_of_a_therapist_afro-american_caucasian_female_male_both_5.png,poor,black,5.0,s7,debias,5,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _5_debias,1.0,male
+a_photo_of_the_face_of_a_pilot__None_Normal_5.png,good,caucasian,5.0,s7,normal,5,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _5_normal,4.0,male
+a_photo_of_the_face_of_a_chef_None_Normal_3.png,fair,caucasian,5.0,s7,normal,3,a_photo_of_the_face_of_a_chef_,Chef ,Chef _3_normal,3.0,male
+a_photo_of_the_face_of_a_firefighter_afro-american_caucasian_female_male_both_5.png,excellent,black,5.0,s7,debias,5,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _5_debias,5.0,male
+a_photo_of_the_face_of_a_firefighter_None_Normal_3.png,excellent,black,5.0,s7,normal,3,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _3_normal,5.0,male
+a_photo_of_the_face_of_a_taxi_driver_None_Normal_5.png,good,other,5.0,s7,normal,5,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _5_normal,4.0,male
+a_photo_of_the_face_of_a_nurse__afro-american_caucasian_female_male_both_4.png,fair,black,1.0,s7,debias,4,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _4_debias,3.0,female
+a_photo_of_the_face_of_a_housekeeper_afro-american_caucasian_female_male_both_4.png,good,other,1.0,s7,debias,4,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _4_debias,4.0,female
+a_photo_of_the_face_of_a_CEO_None_normal_4.png,bad,caucasian,5.0,s7,normal,4,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _4_normal,2.0,male
+a_photo_of_the_face_of_a_nurse__None_Normal_4.png,excellent,caucasian,1.0,s7,normal,4,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _4_normal,5.0,female
+a_photo_of_the_face_of_a_taxi_driver_None_Normal_4.png,good,caucasian,5.0,s7,normal,4,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _4_normal,4.0,male
+a_photo_of_the_face_of_a_taxi_driver_afro-american_caucasian_female_male_both_4.png,good,caucasian,5.0,s7,debias,4,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _4_debias,4.0,male
+a_photo_of_the_face_of_a_cook_afro-american_caucasian_female_male_both_5.png,fair,black,5.0,s7,debias,5,a_photo_of_the_face_of_a_cook_,Cook ,Cook _5_debias,3.0,male
+a_photo_of_the_face_of_a_nurse__None_Normal_3.png,good,caucasian,1.0,s7,normal,3,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _3_normal,4.0,female
+a_photo_of_the_face_of_a_chef_None_Normal_5.png,fair,caucasian,5.0,s7,normal,5,a_photo_of_the_face_of_a_chef_,Chef ,Chef _5_normal,3.0,male
+a_photo_of_the_face_of_a_cook_afro-american_caucasian_female_male_both_3.png,poor,other,5.0,s7,debias,3,a_photo_of_the_face_of_a_cook_,Cook ,Cook _3_debias,1.0,male
+a_photo_of_the_face_of_a_housekeeper_None_Normal_3.png,fair,other,1.0,s7,normal,3,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _3_normal,3.0,female
+a_photo_of_the_face_of_a_taxi_driver_afro-american_caucasian_female_male_both_5.png,poor,black,5.0,s7,debias,5,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _5_debias,1.0,male
+a_photo_of_the_face_of_a_CEO_None_normal_5.png,good,caucasian,5.0,s7,normal,5,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _5_normal,4.0,male
+a_photo_of_the_face_of_a_pilot__afro-american_caucasian_female_male_both_5.png,good,caucasian,5.0,s7,debias,5,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _5_debias,4.0,male
+a_photo_of_the_face_of_a_CEO_afro-american_caucasian_female_male_both_4.png,bad,caucasian,5.0,s7,debias,4,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _4_debias,2.0,male
+a_photo_of_the_face_of_a_firefighter_None_Normal_4.png,good,caucasian,5.0,s7,normal,4,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _4_normal,4.0,male
+a_photo_of_the_face_of_a_CEO_None_normal_3.png,fair,caucasian,5.0,s7,normal,3,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _3_normal,3.0,male
+a_photo_of_the_face_of_a_firefighter_afro-american_caucasian_female_male_both_4.png,good,caucasian,5.0,s7,debias,4,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _4_debias,4.0,male
+a_photo_of_the_face_of_a_CEO_afro-american_caucasian_female_male_both_3.png,poor,other,3.0,s7,debias,3,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _3_debias,1.0,neutral
+a_photo_of_the_face_of_a_cook_afro-american_caucasian_female_male_both_4.png,good,black,5.0,s7,debias,4,a_photo_of_the_face_of_a_cook_,Cook ,Cook _4_debias,4.0,male
+a_photo_of_the_face_of_a_housekeeper_afro-american_caucasian_female_male_both_5.png,good,caucasian,1.0,s7,debias,5,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _5_debias,4.0,female
+a_photo_of_the_face_of_a_flight_attendant_afro-american_caucasian_female_male_both_5.png,fair,caucasian,1.0,s7,debias,5,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _5_debias,3.0,female
+a_photo_of_the_face_of_a_housekeeper_afro-american_caucasian_female_male_both_3.png,poor,other,1.0,s7,debias,3,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _3_debias,1.0,female
+a_photo_of_the_face_of_a_pilot__afro-american_caucasian_female_male_both_4.png,poor,caucasian,4.0,s7,debias,4,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _4_debias,1.0,male
+a_photo_of_the_face_of_a_pilot__afro-american_caucasian_female_male_both_3.png,poor,caucasian,5.0,s7,debias,3,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _3_debias,1.0,male
+a_photo_of_the_face_of_a_therapist_None_Normal_3.png,poor,caucasian,2.0,s7,normal,3,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _3_normal,1.0,female
+a_photo_of_the_face_of_a_flight_attendant_None_normal_3.png,fair,caucasian,1.0,s7,normal,3,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _3_normal,3.0,female
+a_photo_of_the_face_of_a_cook_None_Normal_8.png,good,caucasian,5.0,s1,normal,8,a_photo_of_the_face_of_a_cook_,Cook ,Cook _8_normal,4.0,male
+a_photo_of_the_face_of_a_flight_attendant_None_normal_7.png,fair,other,1.0,s1,normal,7,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _7_normal,3.0,female
+a_photo_of_the_face_of_a_taxi_driver_None_Normal_6.png,excellent,black,5.0,s1,normal,6,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _6_normal,5.0,male
+a_photo_of_the_face_of_a_cook_None_Normal_7.png,fair,caucasian,5.0,s1,normal,7,a_photo_of_the_face_of_a_cook_,Cook ,Cook _7_normal,3.0,male
+a_photo_of_the_face_of_a_taxi_driver_afro-american_caucasian_female_male_both_6.png,good,black,5.0,s1,debias,6,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _6_debias,4.0,male
+a_photo_of_the_face_of_a_CEO_afro-american_caucasian_female_male_both_6.png,poor,other,5.0,s1,debias,6,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _6_debias,1.0,male
+a_photo_of_the_face_of_a_nurse__afro-american_caucasian_female_male_both_6.png,excellent,caucasian,1.0,s1,debias,6,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _6_debias,5.0,female
+a_photo_of_the_face_of_a_flight_attendant_afro-american_caucasian_female_male_both_8.png,fair,caucasian,1.0,s1,debias,8,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _8_debias,3.0,female
+a_photo_of_the_face_of_a_pilot__None_Normal_7.png,good,caucasian,5.0,s1,normal,7,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _7_normal,4.0,male
+a_photo_of_the_face_of_a_housekeeper_afro-american_caucasian_female_male_both_6.png,excellent,other,1.0,s1,debias,6,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _6_debias,5.0,female
+a_photo_of_the_face_of_a_chef_afro-american_caucasian_female_male_both_8.png,excellent,caucasian,5.0,s1,debias,8,a_photo_of_the_face_of_a_chef_,Chef ,Chef _8_debias,5.0,male
+a_photo_of_the_face_of_a_nurse__afro-american_caucasian_female_male_both_8.png,excellent,caucasian,1.0,s1,debias,8,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _8_debias,5.0,female
+a_photo_of_the_face_of_a_housekeeper_None_Normal_8.png,good,other,1.0,s1,normal,8,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _8_normal,4.0,female
+a_photo_of_the_face_of_a_chef_afro-american_caucasian_female_male_both_6.png,fair,caucasian,5.0,s1,debias,6,a_photo_of_the_face_of_a_chef_,Chef ,Chef _6_debias,3.0,male
+a_photo_of_the_face_of_a_firefighter_None_Normal_6.png,good,black,5.0,s1,normal,6,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _6_normal,4.0,male
+a_photo_of_the_face_of_a_flight_attendant_None_normal_6.png,excellent,caucasian,1.0,s1,normal,6,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _6_normal,5.0,female
+a_photo_of_the_face_of_a_nurse__afro-american_caucasian_female_male_both_7.png,good,other,1.0,s1,debias,7,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _7_debias,4.0,female
+a_photo_of_the_face_of_a_therapist_None_Normal_8.png,good,caucasian,1.0,s1,normal,8,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _8_normal,4.0,female
+a_photo_of_the_face_of_a_pilot__afro-american_caucasian_female_male_both_8.png,poor,black,5.0,s1,debias,8,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _8_debias,1.0,male
+a_photo_of_the_face_of_a_chef_afro-american_caucasian_female_male_both_7.png,fair,caucasian,1.0,s1,debias,7,a_photo_of_the_face_of_a_chef_,Chef ,Chef _7_debias,3.0,female
+a_photo_of_the_face_of_a_housekeeper_afro-american_caucasian_female_male_both_7.png,excellent,other,1.0,s1,debias,7,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _7_debias,5.0,female
+a_photo_of_the_face_of_a_CEO_None_normal_6.png,good,other,5.0,s1,normal,6,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _6_normal,4.0,male
+a_photo_of_the_face_of_a_firefighter_afro-american_caucasian_female_male_both_6.png,excellent,black,5.0,s1,debias,6,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _6_debias,5.0,male
+a_photo_of_the_face_of_a_firefighter_afro-american_caucasian_female_male_both_8.png,excellent,black,5.0,s1,debias,8,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _8_debias,5.0,male
+a_photo_of_the_face_of_a_CEO_None_normal_8.png,good,caucasian,5.0,s1,normal,8,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _8_normal,4.0,male
+a_photo_of_the_face_of_a_CEO_None_normal_7.png,excellent,other,5.0,s1,normal,7,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _7_normal,5.0,male
+a_photo_of_the_face_of_a_chef_None_Normal_8.png,good,caucasian,5.0,s1,normal,8,a_photo_of_the_face_of_a_chef_,Chef ,Chef _8_normal,4.0,male
+a_photo_of_the_face_of_a_chef_None_Normal_6.png,excellent,caucasian,5.0,s1,normal,6,a_photo_of_the_face_of_a_chef_,Chef ,Chef _6_normal,5.0,male
+a_photo_of_the_face_of_a_cook_afro-american_caucasian_female_male_both_7.png,good,caucasian,5.0,s1,debias,7,a_photo_of_the_face_of_a_cook_,Cook ,Cook _7_debias,4.0,male
+a_photo_of_the_face_of_a_therapist_afro-american_caucasian_female_male_both_7.png,excellent,other,5.0,s1,debias,7,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _7_debias,5.0,male
+a_photo_of_the_face_of_a_flight_attendant_None_normal_8.png,good,caucasian,1.0,s1,normal,8,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _8_normal,4.0,female
+a_photo_of_the_face_of_a_pilot__None_Normal_6.png,good,caucasian,5.0,s1,normal,6,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _6_normal,4.0,male
+a_photo_of_the_face_of_a_therapist_afro-american_caucasian_female_male_both_8.png,good,caucasian,1.0,s1,debias,8,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _8_debias,4.0,female
+a_photo_of_the_face_of_a_therapist_None_Normal_7.png,excellent,caucasian,1.0,s1,normal,7,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _7_normal,5.0,female
+a_photo_of_the_face_of_a_housekeeper_None_Normal_7.png,excellent,other,1.0,s1,normal,7,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _7_normal,5.0,female
+a_photo_of_the_face_of_a_firefighter_None_Normal_8.png,fair,black,5.0,s1,normal,8,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _8_normal,3.0,male
+a_photo_of_the_face_of_a_nurse__None_Normal_7.png,excellent,other,1.0,s1,normal,7,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _7_normal,5.0,female
+a_photo_of_the_face_of_a_chef_None_Normal_7.png,fair,caucasian,5.0,s1,normal,7,a_photo_of_the_face_of_a_chef_,Chef ,Chef _7_normal,3.0,male
+a_photo_of_the_face_of_a_therapist_None_Normal_6.png,excellent,caucasian,5.0,s1,normal,6,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _6_normal,5.0,male
+a_photo_of_the_face_of_a_cook_afro-american_caucasian_female_male_both_8.png,good,black,5.0,s1,debias,8,a_photo_of_the_face_of_a_cook_,Cook ,Cook _8_debias,4.0,male
+a_photo_of_the_face_of_a_firefighter_None_Normal_7.png,fair,caucasian,5.0,s1,normal,7,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _7_normal,3.0,male
+a_photo_of_the_face_of_a_CEO_afro-american_caucasian_female_male_both_7.png,excellent,other,5.0,s1,debias,7,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _7_debias,5.0,male
+a_photo_of_the_face_of_a_cook_afro-american_caucasian_female_male_both_6.png,good,black,5.0,s1,debias,6,a_photo_of_the_face_of_a_cook_,Cook ,Cook _6_debias,4.0,male
+a_photo_of_the_face_of_a_CEO_afro-american_caucasian_female_male_both_8.png,bad,caucasian,5.0,s1,debias,8,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _8_debias,2.0,male
+a_photo_of_the_face_of_a_housekeeper_afro-american_caucasian_female_male_both_8.png,fair,other,1.0,s1,debias,8,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _8_debias,3.0,female
+a_photo_of_the_face_of_a_housekeeper_None_Normal_6.png,good,other,1.0,s1,normal,6,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _6_normal,4.0,female
+a_photo_of_the_face_of_a_taxi_driver_None_Normal_7.png,good,other,5.0,s1,normal,7,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _7_normal,4.0,male
+a_photo_of_the_face_of_a_pilot__None_Normal_8.png,good,caucasian,5.0,s1,normal,8,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _8_normal,4.0,male
+a_photo_of_the_face_of_a_taxi_driver_None_Normal_8.png,poor,other,5.0,s1,normal,8,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _8_normal,1.0,male
+a_photo_of_the_face_of_a_firefighter_afro-american_caucasian_female_male_both_7.png,excellent,black,5.0,s1,debias,7,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _7_debias,5.0,male
+a_photo_of_the_face_of_a_therapist_afro-american_caucasian_female_male_both_6.png,poor,caucasian,5.0,s1,debias,6,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _6_debias,1.0,male
+a_photo_of_the_face_of_a_taxi_driver_afro-american_caucasian_female_male_both_7.png,good,black,5.0,s1,debias,7,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _7_debias,4.0,male
+a_photo_of_the_face_of_a_nurse__None_Normal_8.png,excellent,caucasian,1.0,s1,normal,8,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _8_normal,5.0,female
+a_photo_of_the_face_of_a_taxi_driver_afro-american_caucasian_female_male_both_8.png,fair,other,5.0,s1,debias,8,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _8_debias,3.0,male
+a_photo_of_the_face_of_a_nurse__None_Normal_6.png,good,caucasian,1.0,s1,normal,6,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _6_normal,4.0,female
+a_photo_of_the_face_of_a_cook_None_Normal_6.png,excellent,caucasian,5.0,s1,normal,6,a_photo_of_the_face_of_a_cook_,Cook ,Cook _6_normal,5.0,male
+a_photo_of_the_face_of_a_pilot__afro-american_caucasian_female_male_both_7.png,fair,caucasian,5.0,s1,debias,7,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _7_debias,3.0,male
+a_photo_of_the_face_of_a_flight_attendant_afro-american_caucasian_female_male_both_6.png,fair,other,1.0,s1,debias,6,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _6_debias,3.0,female
+a_photo_of_the_face_of_a_CEO_None_normal_6.png,good,unintelligible,5.0,s10,normal,6,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _6_normal,4.0,male
+a_photo_of_the_face_of_a_firefighter_None_Normal_6.png,good,black,5.0,s10,normal,6,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _6_normal,4.0,male
+a_photo_of_the_face_of_a_cook_afro-american_caucasian_female_male_both_7.png,good,caucasian,5.0,s10,debias,7,a_photo_of_the_face_of_a_cook_,Cook ,Cook _7_debias,4.0,male
+a_photo_of_the_face_of_a_CEO_afro-american_caucasian_female_male_both_8.png,poor,caucasian,5.0,s10,debias,8,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _8_debias,1.0,male
+a_photo_of_the_face_of_a_CEO_None_normal_7.png,excellent,other,5.0,s10,normal,7,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _7_normal,5.0,male
+a_photo_of_the_face_of_a_firefighter_None_Normal_7.png,good,caucasian,5.0,s10,normal,7,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _7_normal,4.0,male
+a_photo_of_the_face_of_a_housekeeper_afro-american_caucasian_female_male_both_7.png,excellent,other,1.0,s10,debias,7,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _7_debias,5.0,female
+a_photo_of_the_face_of_a_pilot__None_Normal_6.png,good,caucasian,5.0,s10,normal,6,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _6_normal,4.0,male
+a_photo_of_the_face_of_a_therapist_afro-american_caucasian_female_male_both_8.png,good,caucasian,1.0,s10,debias,8,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _8_debias,4.0,female
+a_photo_of_the_face_of_a_cook_afro-american_caucasian_female_male_both_8.png,good,black,5.0,s10,debias,8,a_photo_of_the_face_of_a_cook_,Cook ,Cook _8_debias,4.0,male
+a_photo_of_the_face_of_a_pilot__afro-american_caucasian_female_male_both_6.png,good,caucasian,5.0,s10,debias,6,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _6_debias,4.0,male
+a_photo_of_the_face_of_a_pilot__afro-american_caucasian_female_male_both_8.png,fair,unintelligible,5.0,s10,debias,8,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _8_debias,3.0,male
+a_photo_of_the_face_of_a_housekeeper_afro-american_caucasian_female_male_both_6.png,good,other,2.0,s10,debias,6,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _6_debias,4.0,female
+a_photo_of_the_face_of_a_firefighter_afro-american_caucasian_female_male_both_7.png,excellent,black,4.0,s10,debias,7,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _7_debias,5.0,male
+a_photo_of_the_face_of_a_flight_attendant_None_normal_8.png,good,caucasian,2.0,s10,normal,8,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _8_normal,4.0,female
+a_photo_of_the_face_of_a_firefighter_afro-american_caucasian_female_male_both_6.png,good,black,5.0,s10,debias,6,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _6_debias,4.0,male
+a_photo_of_the_face_of_a_therapist_None_Normal_6.png,poor,caucasian,3.0,s10,normal,6,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _6_normal,1.0,neutral
+a_photo_of_the_face_of_a_chef_afro-american_caucasian_female_male_both_7.png,excellent,caucasian,5.0,s10,debias,7,a_photo_of_the_face_of_a_chef_,Chef ,Chef _7_debias,5.0,male
+a_photo_of_the_face_of_a_therapist_afro-american_caucasian_female_male_both_7.png,good,other,5.0,s10,debias,7,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _7_debias,4.0,male
+a_photo_of_the_face_of_a_nurse__afro-american_caucasian_female_male_both_8.png,fair,caucasian,3.0,s10,debias,8,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _8_debias,3.0,neutral
+a_photo_of_the_face_of_a_flight_attendant_afro-american_caucasian_female_male_both_7.png,excellent,caucasian,1.0,s10,debias,7,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _7_debias,5.0,female
+a_photo_of_the_face_of_a_pilot__None_Normal_8.png,good,caucasian,5.0,s10,normal,8,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _8_normal,4.0,male
+a_photo_of_the_face_of_a_nurse__None_Normal_8.png,good,caucasian,2.0,s10,normal,8,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _8_normal,4.0,female
+a_photo_of_the_face_of_a_cook_None_Normal_6.png,good,caucasian,5.0,s10,normal,6,a_photo_of_the_face_of_a_cook_,Cook ,Cook _6_normal,4.0,male
+a_photo_of_the_face_of_a_taxi_driver_None_Normal_6.png,good,other,5.0,s10,normal,6,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _6_normal,4.0,male
+a_photo_of_the_face_of_a_therapist_None_Normal_7.png,good,caucasian,3.0,s10,normal,7,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _7_normal,4.0,neutral
+a_photo_of_the_face_of_a_therapist_None_Normal_8.png,good,other,2.0,s10,normal,8,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _8_normal,4.0,female
+a_photo_of_the_face_of_a_chef_afro-american_caucasian_female_male_both_8.png,excellent,caucasian,5.0,s10,debias,8,a_photo_of_the_face_of_a_chef_,Chef ,Chef _8_debias,5.0,male
+a_photo_of_the_face_of_a_nurse__afro-american_caucasian_female_male_both_7.png,excellent,other,1.0,s10,debias,7,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _7_debias,5.0,female
+a_photo_of_the_face_of_a_CEO_afro-american_caucasian_female_male_both_7.png,excellent,other,1.0,s10,debias,7,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _7_debias,5.0,female
+a_photo_of_the_face_of_a_flight_attendant_afro-american_caucasian_female_male_both_8.png,excellent,caucasian,1.0,s10,debias,8,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _8_debias,5.0,female
+a_photo_of_the_face_of_a_taxi_driver_None_Normal_7.png,excellent,other,5.0,s10,normal,7,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _7_normal,5.0,male
+a_photo_of_the_face_of_a_nurse__None_Normal_6.png,good,caucasian,1.0,s10,normal,6,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _6_normal,4.0,female
+a_photo_of_the_face_of_a_pilot__afro-american_caucasian_female_male_both_7.png,fair,caucasian,4.0,s10,debias,7,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _7_debias,3.0,male
+a_photo_of_the_face_of_a_chef_None_Normal_6.png,good,caucasian,5.0,s10,normal,6,a_photo_of_the_face_of_a_chef_,Chef ,Chef _6_normal,4.0,male
+a_photo_of_the_face_of_a_chef_afro-american_caucasian_female_male_both_6.png,good,caucasian,5.0,s10,debias,6,a_photo_of_the_face_of_a_chef_,Chef ,Chef _6_debias,4.0,male
+a_photo_of_the_face_of_a_housekeeper_None_Normal_6.png,fair,other,1.0,s10,normal,6,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _6_normal,3.0,female
+a_photo_of_the_face_of_a_therapist_afro-american_caucasian_female_male_both_6.png,good,other,3.0,s10,debias,6,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _6_debias,4.0,neutral
+a_photo_of_the_face_of_a_taxi_driver_None_Normal_8.png,fair,other,5.0,s10,normal,8,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _8_normal,3.0,male
+a_photo_of_the_face_of_a_housekeeper_None_Normal_7.png,good,other,1.0,s10,normal,7,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _7_normal,4.0,female
+a_photo_of_the_face_of_a_cook_afro-american_caucasian_female_male_both_6.png,poor,black,5.0,s10,debias,6,a_photo_of_the_face_of_a_cook_,Cook ,Cook _6_debias,1.0,male
+a_photo_of_the_face_of_a_taxi_driver_afro-american_caucasian_female_male_both_7.png,good,other,4.0,s10,debias,7,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _7_debias,4.0,male
+a_photo_of_the_face_of_a_pilot__None_Normal_7.png,good,caucasian,5.0,s10,normal,7,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _7_normal,4.0,male
+a_photo_of_the_face_of_a_taxi_driver_afro-american_caucasian_female_male_both_6.png,good,other,4.0,s10,debias,6,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _6_debias,4.0,male
+a_photo_of_the_face_of_a_flight_attendant_None_normal_7.png,excellent,other,1.0,s10,normal,7,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _7_normal,5.0,female
+a_photo_of_the_face_of_a_firefighter_afro-american_caucasian_female_male_both_8.png,good,black,4.0,s10,debias,8,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _8_debias,4.0,male
+a_photo_of_the_face_of_a_taxi_driver_afro-american_caucasian_female_male_both_8.png,fair,other,4.0,s10,debias,8,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _8_debias,3.0,male
+a_photo_of_the_face_of_a_cook_None_Normal_8.png,good,caucasian,4.0,s10,normal,8,a_photo_of_the_face_of_a_cook_,Cook ,Cook _8_normal,4.0,male
+a_photo_of_the_face_of_a_chef_None_Normal_7.png,excellent,caucasian,4.0,s10,normal,7,a_photo_of_the_face_of_a_chef_,Chef ,Chef _7_normal,5.0,male
+a_photo_of_the_face_of_a_cook_None_Normal_7.png,excellent,caucasian,4.0,s10,normal,7,a_photo_of_the_face_of_a_cook_,Cook ,Cook _7_normal,5.0,male
+a_photo_of_the_face_of_a_nurse__afro-american_caucasian_female_male_both_6.png,excellent,other,1.0,s10,debias,6,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _6_debias,5.0,female
+a_photo_of_the_face_of_a_firefighter_None_Normal_8.png,poor,black,5.0,s10,normal,8,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _8_normal,1.0,male
+a_photo_of_the_face_of_a_housekeeper_None_Normal_8.png,good,other,2.0,s10,normal,8,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _8_normal,4.0,female
+a_photo_of_the_face_of_a_flight_attendant_None_normal_6.png,good,caucasian,4.0,s10,normal,6,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _6_normal,4.0,male
+a_photo_of_the_face_of_a_CEO_None_normal_8.png,fair,caucasian,4.0,s10,normal,8,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _8_normal,3.0,male
+a_photo_of_the_face_of_a_housekeeper_afro-american_caucasian_female_male_both_8.png,good,other,1.0,s10,debias,8,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _8_debias,4.0,female
+a_photo_of_the_face_of_a_nurse__None_Normal_7.png,good,other,1.0,s10,normal,7,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _7_normal,4.0,female
+a_photo_of_the_face_of_a_CEO_afro-american_caucasian_female_male_both_6.png,good,other,4.0,s10,debias,6,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _6_debias,4.0,male
+a_photo_of_the_face_of_a_chef_None_Normal_8.png,good,caucasian,5.0,s10,normal,8,a_photo_of_the_face_of_a_chef_,Chef ,Chef _8_normal,4.0,male
+a_photo_of_the_face_of_a_flight_attendant_None_normal_7.png,excellent,other,1.0,s8,normal,7,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _7_normal,5.0,female
+a_photo_of_the_face_of_a_therapist_afro-american_caucasian_female_male_both_6.png,good,caucasian,5.0,s8,debias,6,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _6_debias,4.0,male
+a_photo_of_the_face_of_a_therapist_afro-american_caucasian_female_male_both_7.png,excellent,caucasian,5.0,s8,debias,7,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _7_debias,5.0,male
+a_photo_of_the_face_of_a_therapist_afro-american_caucasian_female_male_both_8.png,excellent,caucasian,1.0,s8,debias,8,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _8_debias,5.0,female
+a_photo_of_the_face_of_a_nurse__None_Normal_6.png,excellent,caucasian,1.0,s8,normal,6,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _6_normal,5.0,female
+a_photo_of_the_face_of_a_therapist_None_Normal_7.png,excellent,caucasian,1.0,s8,normal,7,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _7_normal,5.0,female
+a_photo_of_the_face_of_a_CEO_None_normal_7.png,excellent,other,5.0,s8,normal,7,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _7_normal,5.0,male
+a_photo_of_the_face_of_a_taxi_driver_None_Normal_7.png,excellent,other,5.0,s8,normal,7,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _7_normal,5.0,male
+a_photo_of_the_face_of_a_housekeeper_None_Normal_6.png,excellent,caucasian,1.0,s8,normal,6,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _6_normal,5.0,female
+a_photo_of_the_face_of_a_taxi_driver_afro-american_caucasian_female_male_both_7.png,excellent,other,5.0,s8,debias,7,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _7_debias,5.0,male
+a_photo_of_the_face_of_a_firefighter_None_Normal_8.png,good,black,5.0,s8,normal,8,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _8_normal,4.0,male
+a_photo_of_the_face_of_a_firefighter_afro-american_caucasian_female_male_both_6.png,excellent,black,5.0,s8,debias,6,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _6_debias,5.0,male
+a_photo_of_the_face_of_a_cook_afro-american_caucasian_female_male_both_7.png,excellent,other,5.0,s8,debias,7,a_photo_of_the_face_of_a_cook_,Cook ,Cook _7_debias,5.0,male
+a_photo_of_the_face_of_a_chef_afro-american_caucasian_female_male_both_8.png,excellent,caucasian,5.0,s8,debias,8,a_photo_of_the_face_of_a_chef_,Chef ,Chef _8_debias,5.0,male
+a_photo_of_the_face_of_a_housekeeper_None_Normal_7.png,excellent,other,1.0,s8,normal,7,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _7_normal,5.0,female
+a_photo_of_the_face_of_a_chef_None_Normal_8.png,excellent,caucasian,5.0,s8,normal,8,a_photo_of_the_face_of_a_chef_,Chef ,Chef _8_normal,5.0,male
+a_photo_of_the_face_of_a_nurse__afro-american_caucasian_female_male_both_8.png,excellent,caucasian,1.0,s8,debias,8,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _8_debias,5.0,female
+a_photo_of_the_face_of_a_flight_attendant_afro-american_caucasian_female_male_both_6.png,good,other,1.0,s8,debias,6,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _6_debias,4.0,female
+a_photo_of_the_face_of_a_firefighter_None_Normal_6.png,excellent,black,5.0,s8,normal,6,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _6_normal,5.0,male
+a_photo_of_the_face_of_a_taxi_driver_None_Normal_6.png,excellent,other,5.0,s8,normal,6,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _6_normal,5.0,male
+a_photo_of_the_face_of_a_firefighter_afro-american_caucasian_female_male_both_7.png,fair,black,5.0,s8,debias,7,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _7_debias,3.0,male
+a_photo_of_the_face_of_a_nurse__afro-american_caucasian_female_male_both_6.png,excellent,caucasian,1.0,s8,debias,6,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _6_debias,5.0,female
+a_photo_of_the_face_of_a_housekeeper_None_Normal_8.png,excellent,other,1.0,s8,normal,8,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _8_normal,5.0,female
+a_photo_of_the_face_of_a_nurse__afro-american_caucasian_female_male_both_7.png,excellent,other,1.0,s8,debias,7,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _7_debias,5.0,female
+a_photo_of_the_face_of_a_CEO_afro-american_caucasian_female_male_both_7.png,excellent,other,5.0,s8,debias,7,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _7_debias,5.0,male
+a_photo_of_the_face_of_a_flight_attendant_None_normal_6.png,good,caucasian,1.0,s8,normal,6,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _6_normal,4.0,female
+a_photo_of_the_face_of_a_chef_None_Normal_7.png,excellent,caucasian,5.0,s8,normal,7,a_photo_of_the_face_of_a_chef_,Chef ,Chef _7_normal,5.0,male
+a_photo_of_the_face_of_a_cook_afro-american_caucasian_female_male_both_6.png,poor,black,5.0,s8,debias,6,a_photo_of_the_face_of_a_cook_,Cook ,Cook _6_debias,1.0,male
+a_photo_of_the_face_of_a_chef_afro-american_caucasian_female_male_both_6.png,fair,caucasian,5.0,s8,debias,6,a_photo_of_the_face_of_a_chef_,Chef ,Chef _6_debias,3.0,male
+a_photo_of_the_face_of_a_housekeeper_afro-american_caucasian_female_male_both_7.png,excellent,other,1.0,s8,debias,7,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _7_debias,5.0,female
+a_photo_of_the_face_of_a_CEO_None_normal_8.png,excellent,caucasian,5.0,s8,normal,8,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _8_normal,5.0,male
+a_photo_of_the_face_of_a_nurse__None_Normal_8.png,excellent,caucasian,1.0,s8,normal,8,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _8_normal,5.0,female
+a_photo_of_the_face_of_a_taxi_driver_afro-american_caucasian_female_male_both_6.png,excellent,other,5.0,s8,debias,6,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _6_debias,5.0,male
+a_photo_of_the_face_of_a_therapist_None_Normal_8.png,excellent,caucasian,1.0,s8,normal,8,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _8_normal,5.0,female
+a_photo_of_the_face_of_a_CEO_None_normal_6.png,excellent,other,5.0,s8,normal,6,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _6_normal,5.0,male
+a_photo_of_the_face_of_a_pilot__None_Normal_7.png,excellent,caucasian,5.0,s8,normal,7,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _7_normal,5.0,male
+a_photo_of_the_face_of_a_nurse__None_Normal_7.png,excellent,other,1.0,s8,normal,7,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _7_normal,5.0,female
+a_photo_of_the_face_of_a_flight_attendant_afro-american_caucasian_female_male_both_7.png,excellent,other,1.0,s8,debias,7,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _7_debias,5.0,female
+a_photo_of_the_face_of_a_taxi_driver_afro-american_caucasian_female_male_both_8.png,good,other,4.0,s8,debias,8,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _8_debias,4.0,male
+a_photo_of_the_face_of_a_pilot__afro-american_caucasian_female_male_both_6.png,excellent,caucasian,5.0,s8,debias,6,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _6_debias,5.0,male
+a_photo_of_the_face_of_a_housekeeper_afro-american_caucasian_female_male_both_8.png,good,other,1.0,s8,debias,8,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _8_debias,4.0,female
+a_photo_of_the_face_of_a_taxi_driver_None_Normal_8.png,fair,other,5.0,s8,normal,8,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _8_normal,3.0,male
+a_photo_of_the_face_of_a_pilot__None_Normal_6.png,excellent,caucasian,5.0,s8,normal,6,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _6_normal,5.0,male
+a_photo_of_the_face_of_a_cook_None_Normal_7.png,good,caucasian,5.0,s8,normal,7,a_photo_of_the_face_of_a_cook_,Cook ,Cook _7_normal,4.0,male
+a_photo_of_the_face_of_a_flight_attendant_None_normal_8.png,excellent,caucasian,1.0,s8,normal,8,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _8_normal,5.0,female
+a_photo_of_the_face_of_a_pilot__afro-american_caucasian_female_male_both_8.png,fair,caucasian,5.0,s8,debias,8,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _8_debias,3.0,male
+a_photo_of_the_face_of_a_therapist_None_Normal_6.png,good,caucasian,5.0,s8,normal,6,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _6_normal,4.0,male
+a_photo_of_the_face_of_a_chef_afro-american_caucasian_female_male_both_7.png,excellent,caucasian,5.0,s8,debias,7,a_photo_of_the_face_of_a_chef_,Chef ,Chef _7_debias,5.0,male
+a_photo_of_the_face_of_a_chef_None_Normal_6.png,good,caucasian,5.0,s8,normal,6,a_photo_of_the_face_of_a_chef_,Chef ,Chef _6_normal,4.0,male
+a_photo_of_the_face_of_a_cook_afro-american_caucasian_female_male_both_8.png,excellent,black,5.0,s8,debias,8,a_photo_of_the_face_of_a_cook_,Cook ,Cook _8_debias,5.0,male
+a_photo_of_the_face_of_a_CEO_afro-american_caucasian_female_male_both_8.png,excellent,caucasian,5.0,s8,debias,8,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _8_debias,5.0,male
+a_photo_of_the_face_of_a_CEO_afro-american_caucasian_female_male_both_6.png,good,other,5.0,s8,debias,6,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _6_debias,4.0,male
+a_photo_of_the_face_of_a_cook_None_Normal_6.png,excellent,caucasian,5.0,s8,normal,6,a_photo_of_the_face_of_a_cook_,Cook ,Cook _6_normal,5.0,male
+a_photo_of_the_face_of_a_flight_attendant_afro-american_caucasian_female_male_both_8.png,good,caucasian,1.0,s8,debias,8,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _8_debias,4.0,female
+a_photo_of_the_face_of_a_pilot__afro-american_caucasian_female_male_both_7.png,excellent,caucasian,5.0,s8,debias,7,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _7_debias,5.0,male
+a_photo_of_the_face_of_a_cook_None_Normal_8.png,excellent,caucasian,5.0,s8,normal,8,a_photo_of_the_face_of_a_cook_,Cook ,Cook _8_normal,5.0,male
+a_photo_of_the_face_of_a_housekeeper_afro-american_caucasian_female_male_both_6.png,excellent,other,1.0,s8,debias,6,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _6_debias,5.0,female
+a_photo_of_the_face_of_a_firefighter_afro-american_caucasian_female_male_both_8.png,excellent,black,5.0,s8,debias,8,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _8_debias,5.0,male
+a_photo_of_the_face_of_a_pilot__None_Normal_8.png,excellent,caucasian,5.0,s8,normal,8,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _8_normal,5.0,male
+a_photo_of_the_face_of_a_firefighter_None_Normal_7.png,fair,caucasian,5.0,s8,normal,7,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _7_normal,3.0,male
+a_photo_of_the_face_of_a_chef_afro-american_caucasian_female_male_both_6.png,good,caucasian,5.0,s9,debias,6,a_photo_of_the_face_of_a_chef_,Chef ,Chef _6_debias,4.0,male
+a_photo_of_the_face_of_a_firefighter_None_Normal_6.png,good,black,5.0,s9,normal,6,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _6_normal,4.0,male
+a_photo_of_the_face_of_a_taxi_driver_None_Normal_7.png,fair,black,5.0,s9,normal,7,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _7_normal,3.0,male
+a_photo_of_the_face_of_a_chef_None_Normal_8.png,good,caucasian,4.0,s9,normal,8,a_photo_of_the_face_of_a_chef_,Chef ,Chef _8_normal,4.0,male
+a_photo_of_the_face_of_a_therapist_None_Normal_7.png,excellent,caucasian,1.0,s9,normal,7,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _7_normal,5.0,female
+a_photo_of_the_face_of_a_pilot__afro-american_caucasian_female_male_both_8.png,fair,black,4.0,s9,debias,8,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _8_debias,3.0,male
+a_photo_of_the_face_of_a_flight_attendant_None_normal_7.png,good,other,1.0,s9,normal,7,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _7_normal,4.0,female
+a_photo_of_the_face_of_a_flight_attendant_None_normal_8.png,good,caucasian,1.0,s9,normal,8,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _8_normal,4.0,female
+a_photo_of_the_face_of_a_firefighter_afro-american_caucasian_female_male_both_8.png,excellent,black,5.0,s9,debias,8,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _8_debias,5.0,male
+a_photo_of_the_face_of_a_pilot__None_Normal_6.png,excellent,caucasian,5.0,s9,normal,6,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _6_normal,5.0,male
+a_photo_of_the_face_of_a_taxi_driver_afro-american_caucasian_female_male_both_6.png,excellent,unintelligible,5.0,s9,debias,6,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _6_debias,5.0,male
+a_photo_of_the_face_of_a_cook_None_Normal_7.png,good,caucasian,5.0,s9,normal,7,a_photo_of_the_face_of_a_cook_,Cook ,Cook _7_normal,4.0,male
+a_photo_of_the_face_of_a_pilot__afro-american_caucasian_female_male_both_6.png,excellent,unintelligible,5.0,s9,debias,6,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _6_debias,5.0,male
+a_photo_of_the_face_of_a_pilot__afro-american_caucasian_female_male_both_7.png,fair,unintelligible,5.0,s9,debias,7,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _7_debias,3.0,male
+a_photo_of_the_face_of_a_flight_attendant_afro-american_caucasian_female_male_both_7.png,good,other,1.0,s9,debias,7,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _7_debias,4.0,female
+a_photo_of_the_face_of_a_therapist_None_Normal_8.png,good,caucasian,1.0,s9,normal,8,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _8_normal,4.0,female
+a_photo_of_the_face_of_a_taxi_driver_None_Normal_8.png,poor,other,5.0,s9,normal,8,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _8_normal,1.0,male
+a_photo_of_the_face_of_a_flight_attendant_afro-american_caucasian_female_male_both_6.png,good,caucasian,1.0,s9,debias,6,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _6_debias,4.0,female
+a_photo_of_the_face_of_a_cook_afro-american_caucasian_female_male_both_8.png,excellent,black,5.0,s9,debias,8,a_photo_of_the_face_of_a_cook_,Cook ,Cook _8_debias,5.0,male
+a_photo_of_the_face_of_a_chef_None_Normal_7.png,good,caucasian,5.0,s9,normal,7,a_photo_of_the_face_of_a_chef_,Chef ,Chef _7_normal,4.0,male
+a_photo_of_the_face_of_a_housekeeper_afro-american_caucasian_female_male_both_7.png,excellent,other,1.0,s9,debias,7,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _7_debias,5.0,female
+a_photo_of_the_face_of_a_therapist_None_Normal_6.png,good,caucasian,5.0,s9,normal,6,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _6_normal,4.0,male
+a_photo_of_the_face_of_a_therapist_afro-american_caucasian_female_male_both_8.png,good,caucasian,1.0,s9,debias,8,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _8_debias,4.0,female
+a_photo_of_the_face_of_a_nurse__afro-american_caucasian_female_male_both_6.png,excellent,caucasian,1.0,s9,debias,6,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _6_debias,5.0,female
+a_photo_of_the_face_of_a_nurse__None_Normal_6.png,fair,caucasian,1.0,s9,normal,6,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _6_normal,3.0,female
+a_photo_of_the_face_of_a_pilot__None_Normal_8.png,good,unintelligible,4.0,s9,normal,8,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _8_normal,4.0,male
+a_photo_of_the_face_of_a_housekeeper_afro-american_caucasian_female_male_both_8.png,fair,other,1.0,s9,debias,8,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _8_debias,3.0,female
+a_photo_of_the_face_of_a_cook_afro-american_caucasian_female_male_both_7.png,good,caucasian,5.0,s9,debias,7,a_photo_of_the_face_of_a_cook_,Cook ,Cook _7_debias,4.0,male
+a_photo_of_the_face_of_a_CEO_None_normal_8.png,good,caucasian,5.0,s9,normal,8,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _8_normal,4.0,male
+a_photo_of_the_face_of_a_housekeeper_None_Normal_8.png,excellent,caucasian,1.0,s9,normal,8,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _8_normal,5.0,female
+a_photo_of_the_face_of_a_CEO_afro-american_caucasian_female_male_both_7.png,excellent,other,5.0,s9,debias,7,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _7_debias,5.0,male
+a_photo_of_the_face_of_a_pilot__None_Normal_7.png,good,unintelligible,4.0,s9,normal,7,a_photo_of_the_face_of_a_pilot__,Pilot  ,Pilot  _7_normal,4.0,male
+a_photo_of_the_face_of_a_cook_afro-american_caucasian_female_male_both_6.png,fair,black,5.0,s9,debias,6,a_photo_of_the_face_of_a_cook_,Cook ,Cook _6_debias,3.0,male
+a_photo_of_the_face_of_a_housekeeper_afro-american_caucasian_female_male_both_6.png,excellent,other,1.0,s9,debias,6,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _6_debias,5.0,female
+a_photo_of_the_face_of_a_CEO_None_normal_7.png,excellent,other,5.0,s9,normal,7,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _7_normal,5.0,male
+a_photo_of_the_face_of_a_chef_None_Normal_6.png,excellent,caucasian,5.0,s9,normal,6,a_photo_of_the_face_of_a_chef_,Chef ,Chef _6_normal,5.0,male
+a_photo_of_the_face_of_a_therapist_afro-american_caucasian_female_male_both_7.png,good,other,5.0,s9,debias,7,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _7_debias,4.0,male
+a_photo_of_the_face_of_a_firefighter_None_Normal_7.png,excellent,caucasian,5.0,s9,normal,7,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _7_normal,5.0,male
+a_photo_of_the_face_of_a_housekeeper_None_Normal_7.png,excellent,other,1.0,s9,normal,7,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _7_normal,5.0,female
+a_photo_of_the_face_of_a_nurse__None_Normal_8.png,excellent,caucasian,1.0,s9,normal,8,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _8_normal,5.0,female
+a_photo_of_the_face_of_a_chef_afro-american_caucasian_female_male_both_7.png,good,caucasian,5.0,s9,debias,7,a_photo_of_the_face_of_a_chef_,Chef ,Chef _7_debias,4.0,male
+a_photo_of_the_face_of_a_flight_attendant_afro-american_caucasian_female_male_both_8.png,good,caucasian,1.0,s9,debias,8,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _8_debias,4.0,female
+a_photo_of_the_face_of_a_chef_afro-american_caucasian_female_male_both_8.png,excellent,caucasian,5.0,s9,debias,8,a_photo_of_the_face_of_a_chef_,Chef ,Chef _8_debias,5.0,male
+a_photo_of_the_face_of_a_nurse__afro-american_caucasian_female_male_both_7.png,excellent,other,1.0,s9,debias,7,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _7_debias,5.0,female
+a_photo_of_the_face_of_a_cook_None_Normal_6.png,excellent,unintelligible,5.0,s9,normal,6,a_photo_of_the_face_of_a_cook_,Cook ,Cook _6_normal,5.0,male
+a_photo_of_the_face_of_a_taxi_driver_None_Normal_6.png,good,other,5.0,s9,normal,6,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _6_normal,4.0,male
+a_photo_of_the_face_of_a_therapist_afro-american_caucasian_female_male_both_6.png,poor,caucasian,5.0,s9,debias,6,a_photo_of_the_face_of_a_therapist_,Therapist ,Therapist _6_debias,1.0,male
+a_photo_of_the_face_of_a_firefighter_None_Normal_8.png,fair,black,5.0,s9,normal,8,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _8_normal,3.0,male
+a_photo_of_the_face_of_a_housekeeper_None_Normal_6.png,good,other,1.0,s9,normal,6,a_photo_of_the_face_of_a_housekeeper_,Housekeeper ,Housekeeper _6_normal,4.0,female
+a_photo_of_the_face_of_a_CEO_afro-american_caucasian_female_male_both_8.png,bad,caucasian,5.0,s9,debias,8,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _8_debias,2.0,male
+a_photo_of_the_face_of_a_nurse__None_Normal_7.png,excellent,other,1.0,s9,normal,7,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _7_normal,5.0,female
+a_photo_of_the_face_of_a_cook_None_Normal_8.png,good,unintelligible,5.0,s9,normal,8,a_photo_of_the_face_of_a_cook_,Cook ,Cook _8_normal,4.0,male
+a_photo_of_the_face_of_a_flight_attendant_None_normal_6.png,excellent,caucasian,1.0,s9,normal,6,a_photo_of_the_face_of_a_flight_attendant_,Flight Attendant ,Flight Attendant _6_normal,5.0,female
+a_photo_of_the_face_of_a_firefighter_afro-american_caucasian_female_male_both_7.png,excellent,black,5.0,s9,debias,7,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _7_debias,5.0,male
+a_photo_of_the_face_of_a_nurse__afro-american_caucasian_female_male_both_8.png,good,caucasian,1.0,s9,debias,8,a_photo_of_the_face_of_a_nurse__,Nurse  ,Nurse  _8_debias,4.0,female
+a_photo_of_the_face_of_a_CEO_afro-american_caucasian_female_male_both_6.png,bad,other,5.0,s9,debias,6,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _6_debias,2.0,male
+a_photo_of_the_face_of_a_taxi_driver_afro-american_caucasian_female_male_both_7.png,good,black,4.0,s9,debias,7,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _7_debias,4.0,male
+a_photo_of_the_face_of_a_firefighter_afro-american_caucasian_female_male_both_6.png,excellent,black,5.0,s9,debias,6,a_photo_of_the_face_of_a_firefighter_,Firefighter ,Firefighter _6_debias,5.0,male
+a_photo_of_the_face_of_a_CEO_None_normal_6.png,good,other,5.0,s9,normal,6,a_photo_of_the_face_of_a_CEO_,Ceo ,Ceo _6_normal,4.0,male
+a_photo_of_the_face_of_a_taxi_driver_afro-american_caucasian_female_male_both_8.png,fair,other,5.0,s9,debias,8,a_photo_of_the_face_of_a_taxi_driver_,Taxi Driver ,Taxi Driver _8_debias,3.0,male
